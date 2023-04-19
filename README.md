@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohin khan</h1>
 <h3 align="center">I'm a passionate Software Developer</h3>
-<img align="right" width=400 alt="profile" src="[[https://d3kqdc25i4tl0t.cloudfront.net/articles/content/545_983014_tech.hero.jpg](https://www.techrepublic.com/a/hub/i/2021/02/18/a89b6711-8e8d-4b34-a0bd-176d13042e9c/software-developer-on-php-code.jpg)](https://r.search.yahoo.com/_ylt=AwrKDyPpGkBkP9ovPXHGHAx.;_ylu=c2VjA2ZwLWltZwRzbGsDaW1n/RV=2/RE=1681951593/RO=11/RU=https%3a%2f%2fd3kqdc25i4tl0t.cloudfront.net%2farticles%2fcontent%2f545_983014_tech.hero.jpg/RK=2/RS=4JfbqgEOBH5J1OEi.VgzzPmz5Qw-)">
+<img align="right" width=400 alt="profile" src="https://www.techrepublic.com/a/hub/i/2021/02/18/a89b6711-8e8d-4b34-a0bd-176d13042e9c/software-developer-on-php-code.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohin-khan&label=Profile%20views&color=0e75b6&style=flat" alt="mohin-khan" /> </p>
 
